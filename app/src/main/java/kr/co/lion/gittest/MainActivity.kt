@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         val a2 = 20
         val a3 = 30
         val a4 = 40
+        val a5 = 50
     }
 }
